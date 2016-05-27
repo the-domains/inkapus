@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[inkapus]]></title>
         <description><![CDATA[inkapus]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/inkapus/</link>
         <generator>The Grid</generator>
         <lastBuildDate>Fri, 27 May 2016 23:52:22 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <atom:link href="https://thegrid.ai/inkapus/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/9ee448af-c187-4350-9cad-58d4557269ff.jpg">]]></description>
+            <link>https://thegrid.ai/inkapus/learn-and-play/index.html</link>
+            <guid isPermaLink="false">30ab0334-ffe4-4bb3-a7aa-8bc9c0b10166</guid>
+            <pubDate>Fri, 27 May 2016 23:52:21 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/f703d847-5fb8-4008-80ec-5f54d848e8f2.jpg">]]></description>
-            <link>undefinedlife-may-have-its-own-special-plans-for-you/index.html</link>
+            <link>https://thegrid.ai/inkapus/life-may-have-its-own-special-plans-for-you/index.html</link>
             <guid isPermaLink="false">e18f8bdd-81fa-4bbd-bb3e-506fb12a03c8</guid>
             <pubDate>Fri, 27 May 2016 23:52:21 GMT</pubDate>
         </item>
