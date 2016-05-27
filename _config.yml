@@ -1,0 +1,28 @@
+name: inkapus
+favicon: null
+layout_spectrum: 0.7672912187408656
+typography_spectrum: 0.267254666890949
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#E0FBFC'
+    - '#C2DFE3'
+    - '#9DB4C0'
+    - '#5C6B73'
+    - '#253237'
+  brandStrength: 0.5921429516747594
+  lightness: 0.2237266970332712
+  saturation: 0.9132212391123176
+  rhythmicContrast: 0.2019330516923219
+purpose: []
