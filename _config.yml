@@ -1,6 +1,6 @@
 name: inkapus
 favicon: null
-layout_spectrum: 0.7672912187408656
+layout_spectrum: 0.49889
 typography_spectrum: 0.267254666890949
 cta:
   domain: null
@@ -16,11 +16,11 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#E0FBFC'
-    - '#C2DFE3'
-    - '#9DB4C0'
-    - '#5C6B73'
-    - '#253237'
+    - '#82a6fc'
+    - '#ffffff'
+    - '#000000'
+    - '#e2cd34'
+    - '#de13e1'
   brandStrength: 0.5921429516747594
   lightness: 0.2237266970332712
   saturation: 0.9132212391123176
