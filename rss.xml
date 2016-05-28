@@ -4,8 +4,15 @@
         <description><![CDATA[The Quiet Adventures of Iggy the Introverted Inkapus]]></description>
         <link>https://thegrid.ai/inkapus/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 28 May 2016 03:03:14 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 28 May 2016 03:04:36 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/inkapus/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Inkapus on the Move]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/853d038a-ec3a-4365-bb77-3f943b7d5cbd.png" alt="" title="">]]></description>
+            <link>https://thegrid.ai/inkapus/learn-and-play/index.html</link>
+            <guid isPermaLink="false">30ab0334-ffe4-4bb3-a7aa-8bc9c0b10166</guid>
+            <pubDate>Sat, 28 May 2016 03:04:34 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/98b9e5b9-afe4-4605-8c75-ce3f45995ce8.jpg">]]></description>
@@ -19,13 +26,6 @@
             <link>https://thegrid.ai/inkapus/life-may-have-its-own-special-plans-for-you/index.html</link>
             <guid isPermaLink="false">e18f8bdd-81fa-4bbd-bb3e-506fb12a03c8</guid>
             <pubDate>Sat, 28 May 2016 03:02:32 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Inkapus on the Move]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/853d038a-ec3a-4365-bb77-3f943b7d5cbd.png" alt="" title="" />]]></description>
-            <link>https://thegrid.ai/inkapus/learn-and-play/index.html</link>
-            <guid isPermaLink="false">30ab0334-ffe4-4bb3-a7aa-8bc9c0b10166</guid>
-            <pubDate>Sat, 28 May 2016 03:01:47 GMT</pubDate>
         </item>
     </channel>
 </rss>
