@@ -4,23 +4,23 @@ hasPage: true
 inNav: false
 inLanguage: null
 keywords: []
-description: LEARN AND PLAY
-datePublished: '2016-05-27T23:52:21.587Z'
-dateModified: '2016-05-27T23:51:38.851Z'
+description: ' Iggy’s long time home, Crystal Cove, becomes polluted. So, Iggy and a few of his friends set out to find a clean place to live. This proves to be more challenging than they expected. Iggy and his friends must work together to solve problems, deal with disappointment, and stay strong when things get tough. '
+datePublished: '2016-05-28T03:01:47.000Z'
+dateModified: '2016-05-28T03:00:10.899Z'
 title: ''
-author: []
+author:
+  - name: Kristen Maxwell
+    url: inkapus.com
+sourcePath: _posts/2016-05-27-learn-and-play.md
 authors: []
 publisher: null
 starred: false
-sourcePath: _posts/2016-05-27-learn-and-play.md
 url: learn-and-play/index.html
 _type: Article
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/9ee448af-c187-4350-9cad-58d4557269ff.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/853d038a-ec3a-4365-bb77-3f943b7d5cbd.png)
 
-LEARN AND PLAY
+**SOMETIMES YOU JUST HAVE TO LEAVE YOUR COMFORT ZONE**
 
-Kids can learn and play with Iggy's full-color adventure book. Full of puzzles, games, facts and fun, kids will learn about the differences between introverts and extroverts. They'll also learn interesting facts about their favorite Iggy characters, sea creatures and more! [Buy \>][0]
-
-[0]: http://inkapus.com/iggys-creative-adventure-book/
+Iggy's long time home, Crystal Cove, becomes polluted. So, Iggy and a few of his friends set out to find a clean place to live. This proves to be more challenging than they expected. Iggy and his friends must work together to solve problems, deal with disappointment, and stay strong when things get tough.
