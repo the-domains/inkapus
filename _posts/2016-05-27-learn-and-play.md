@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: ' Iggy’s long time home, Crystal Cove, becomes polluted. So, Iggy and a few of his friends set out to find a clean place to live. This proves to be more challenging than they expected. Iggy and his friends must work together to solve problems, deal with disappointment, and stay strong when things get tough. '
-datePublished: '2016-05-28T03:01:47.000Z'
-dateModified: '2016-05-28T03:00:10.899Z'
+datePublished: '2016-05-28T03:04:34.442Z'
+dateModified: '2016-05-28T03:01:53.848Z'
 title: ''
 author:
   - name: Kristen Maxwell
