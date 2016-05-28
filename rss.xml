@@ -4,8 +4,15 @@
         <description><![CDATA[The Quiet Adventures of Iggy the Introverted Inkapus]]></description>
         <link>https://thegrid.ai/inkapus/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 28 May 2016 03:02:33 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 28 May 2016 03:03:14 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/inkapus/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/98b9e5b9-afe4-4605-8c75-ce3f45995ce8.jpg">]]></description>
+            <link>https://thegrid.ai/inkapus/why-would-anyone-want-to-ditch-their-friends/index.html</link>
+            <guid isPermaLink="false">432a0a9f-8b66-46c1-8d36-0217d99676bc</guid>
+            <pubDate>Sat, 28 May 2016 03:03:12 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>LIFE MAY HAVE ITS OWN SPECIAL PLANS FOR YOU. </p>]]></description>
@@ -19,13 +26,6 @@
             <link>https://thegrid.ai/inkapus/learn-and-play/index.html</link>
             <guid isPermaLink="false">30ab0334-ffe4-4bb3-a7aa-8bc9c0b10166</guid>
             <pubDate>Sat, 28 May 2016 03:01:47 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/98b9e5b9-afe4-4605-8c75-ce3f45995ce8.jpg">]]></description>
-            <link>https://thegrid.ai/inkapus/why-would-anyone-want-to-ditch-their-friends/index.html</link>
-            <guid isPermaLink="false">432a0a9f-8b66-46c1-8d36-0217d99676bc</guid>
-            <pubDate>Fri, 27 May 2016 23:52:21 GMT</pubDate>
         </item>
     </channel>
 </rss>
