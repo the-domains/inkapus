@@ -5,10 +5,12 @@ inNav: false
 inLanguage: null
 keywords: []
 description: WHY WOULD ANYONE WANT TO DITCH THEIR FRIENDS?
-datePublished: '2016-05-28T03:03:12.071Z'
-dateModified: '2016-05-28T02:34:06.136Z'
+datePublished: '2016-05-28T03:05:47.694Z'
+dateModified: '2016-05-28T03:05:40.806Z'
 title: ''
-author: []
+author:
+  - name: Kristen Maxwell
+    url: inkapus.com
 sourcePath: _posts/2016-05-27-why-would-anyone-want-to-ditch-their-friends.md
 authors: []
 publisher: null
