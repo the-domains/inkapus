@@ -5,19 +5,19 @@ inNav: false
 inLanguage: null
 keywords: []
 description: 'LIFE MAY HAVE ITS OWN SPECIAL PLANS FOR YOU. '
-datePublished: '2016-05-27T23:52:21.409Z'
-dateModified: '2016-05-27T23:48:35.388Z'
+datePublished: '2016-05-28T03:01:28.576Z'
+dateModified: '2016-05-28T02:37:34.284Z'
 title: ''
 author: []
+sourcePath: _posts/2016-05-27-life-may-have-its-own-special-plans-for-you.md
 authors: []
 publisher: null
 starred: false
-sourcePath: _posts/2016-05-27-life-may-have-its-own-special-plans-for-you.md
 url: life-may-have-its-own-special-plans-for-you/index.html
 _type: Article
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/f703d847-5fb8-4008-80ec-5f54d848e8f2.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/aac76b4a-aa9b-4e1b-aea8-7d19c6bb19fb.png)
 
 **LIFE MAY HAVE ITS OWN SPECIAL PLANS FOR YOU. **
 
