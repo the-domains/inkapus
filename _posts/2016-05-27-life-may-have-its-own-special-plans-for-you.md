@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: 'LIFE MAY HAVE ITS OWN SPECIAL PLANS FOR YOU. '
-datePublished: '2016-05-28T03:01:28.576Z'
-dateModified: '2016-05-28T02:37:34.284Z'
+datePublished: '2016-05-28T03:02:32.022Z'
+dateModified: '2016-05-28T03:01:35.728Z'
 title: ''
 author: []
 sourcePath: _posts/2016-05-27-life-may-have-its-own-special-plans-for-you.md
